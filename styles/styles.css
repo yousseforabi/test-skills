@@ -8,9 +8,23 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: white;
-}
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
 
-/* Hero Section */
+    
+}
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+/* land page Section */
 .land-page{
     position: relative;
     height: 100vh;
@@ -166,7 +180,7 @@ button {
 }
 
 .explore-btn:hover {
-    background-color: #4a67e0;
+    background-color: #5474FD;
 }
 
 .image-wrapper {
